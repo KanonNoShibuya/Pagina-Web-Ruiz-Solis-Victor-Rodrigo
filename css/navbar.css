@@ -1,0 +1,16 @@
+.nav-enlace{
+    display: inline-block;
+    background-color: #4CC4FF;
+    color: #FFFFFF;
+    padding: 10px 30px;
+}
+
+.nav-enlace:hover{
+    background-color: #1CC9FF;
+
+}
+
+nav{
+background-color: #4CC4FF;
+padding: 10px;
+}
